@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mokhtar 👋
 
-<!--
-**Mo5tar-Dev/Mo5tar-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in Data Engineering, Data Analysis, AI, and Machine Learning.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Data Analysis
+- Object-Oriented Programming
+- Tkinter
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Engineering
+- Machine Learning
+- Data Analysis
+
+## Projects
+- Inventory & Sales Management System
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/mokhtar-mohamed-327113295
